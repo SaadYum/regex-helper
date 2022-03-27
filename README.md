@@ -6,6 +6,9 @@ implement using loops and more lines of code.
 The Regular Expression Helper helps you learn more about Regular Expressions by building a
 useful tool you'll also be able to use to test expressions you use in your apps.
 
+
+![Sample Screenshot](https://github.com/SaadYum/regex-helper/blob/main/public/sample.PNG)
+
 ## Features
 
 - User can enter a regular expression.
