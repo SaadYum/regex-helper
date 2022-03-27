@@ -6,6 +6,16 @@ implement using loops and more lines of code.
 The Regular Expression Helper helps you learn more about Regular Expressions by building a
 useful tool you'll also be able to use to test expressions you use in your apps.
 
+## Installation
+### Prerequisites
+* Your system should have [NODE JS](https://nodejs.org/en/) installed on it
+### Steps
+1. Clone the Repo
+2. Open your system terminal in the cloned directory
+3. run command `npm install`
+4. run command `npm start`
+5. App will start running on `localhost:3000`
+
 
 ![Sample Screenshot](https://github.com/SaadYum/regex-helper/blob/main/public/sample.PNG)
 
