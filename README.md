@@ -35,3 +35,7 @@ i.e global, case insensitive, multiline, sticky.
 - User can select the RegExp function to be applied from a dropdown - test, search, or
 match
 - User can see a message indicating the result of the selected RegExp function.
+
+
+# NOTE
+Use regular expression without `/` around it. The form accepts only the actual expression string.
